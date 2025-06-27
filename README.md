@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/badge/HTML5-orange" />
 <img src="https://img.shields.io/badge/CSS3-blue" />
-<img src="https://img.shields.io/badge/CSS3-yellow" />
+<img src="https://img.shields.io/badge/Javascript-yellow" />
