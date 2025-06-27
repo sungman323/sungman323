@@ -2,6 +2,3 @@
 
 ## 프론트엔드 개발자 박성만입니다.
 
-###### :envelope: amets62@naver.com
-###### :iphone: 010-7126-1514
-###### :bookmark_tabs: https://man323.myds.me/portfolio
